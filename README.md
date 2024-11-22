@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dumeixiang
+- 👋 Hi, I’m @dumeixiang, pursuing Mater degree in data science at Duke University.
 - 👀 I’m interested Deep Learning, Reinforcement Learning, Natural Lanuage Processing and their application.
-- 🌱 I’m currently working on LLM enhanced RL research
+- 🌱 I’m currently working on LLM enhanced RL research.
+
 
 <!---
 dumeixiang/dumeixiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
